@@ -25,6 +25,9 @@ body {
   box-shadow: 1px 15px 20px 0px rgba(0,0,0,0.5);
   
   position: absolute;
+    border-radius: 10px;
+    transition: transform 0.1s ease;  /* Для плавности перемещения */
+  
 }
 
 .paper.heart {
